@@ -1,0 +1,5 @@
+{
+  "name": "Arduino Radar Dashboard",
+  "description": "A web dashboard that displays live distance data from an Arduino sensor. It features controls for connection and data collection, live status indicators, and a real-time chart plotting distance over time.",
+  "requestFramePermissions": []
+}
